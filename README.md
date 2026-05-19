@@ -67,7 +67,7 @@ Sensors → ESP32 → Wi-Fi → Firebase → Dashboard → Alerts
 
 ---
 
-## 📁 Project Structure
+
 
 ## 📁 Project Structure
 ├── hardware/     → Circuit diagrams, component list
