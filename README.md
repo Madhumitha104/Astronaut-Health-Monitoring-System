@@ -91,4 +91,4 @@ Sensors → ESP32 → Wi-Fi → Firebase → Dashboard → Alerts
 1. Toscano et al. (2020) – NASA Bio-Monitor Wearable Garment
 2. Dcosta et al. (2023) – Flexible Biosensors for Space, Frontiers in Space Technologies
 3. Mani et al. (2024) – Edge ML for Arrhythmia in Spaceflight, npj Microgravity
-4. 
+
